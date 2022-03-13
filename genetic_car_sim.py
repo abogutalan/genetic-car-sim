@@ -1,6 +1,7 @@
 
 import math
 import random
+import os
 
 import pygame
 from pygame.locals import *
@@ -646,7 +647,12 @@ class do_stuff():
 				if not cars.isDead:
 					cars.set_pos_and_vel([self.population[index][0].position.x,self.population[index][0].position.y],self.population[index][0].linearVelocity.x)
 					if cars.isDead:
-						print("Distance travelled: ", cars.max_dist)
+
+						# updated print function to write output to a txt file
+						# print("Distance travelled: ", cars.max_dist)
+						str1 = b"Distance travelled: " + str(cars.max_dist).encode('ascii') + b"\n" 
+						os.write(experiment_file, str1)
+
 						#id you want to keep all the cars on the screen, (only for testing) commend the bottom 5 lines
 						for wheel in self.population[index][1]:
 							if wheel:
@@ -654,7 +660,11 @@ class do_stuff():
 						self.world.DestroyBody(self.population[index][0]) #remove chassis
 						self.population[index] = None
 						self.killed+=1  #turn this on only after all the mate,mutate methods work
-						print("killed so far: ",self.killed)
+
+						# print("killed so far: ",self.killed)
+						str2 = b"killed so far: " + str(self.killed).encode('ascii') + b"\n" 
+						os.write(experiment_file, str2)
+						os.sync()
 
 
 	def sort_by_dist(self):
@@ -787,6 +797,9 @@ class do_stuff():
 		#change generation.
 		print(len(new_population))
 		print("START NEW GENERATION!!!!!!!!!")
+		title = b"START NEW GENERATION!!!!!!!!! \n" 
+		os.write(experiment_file, title)
+		os.sync()
 
 		self.killed = 0
 		for index,elem in enumerate(new_population_data):
@@ -809,7 +822,14 @@ class do_stuff():
 
 #if __name__ == "__main__":
 #	main(do_stuff)
+# experiment_file = open('demo.txt', 'w')
+# print('~~~New Experiment ~~~', file = experiment_file)
+
+experiment_file = os.open('demo.txt', os.O_RDWR)
+
 m = do_stuff()
+
+os.close(experiment_file)
 
 #few problems:
 

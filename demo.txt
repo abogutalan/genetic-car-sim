@@ -1,0 +1,1270 @@
+Distance travelled: -0.33217912912368774
+killed so far: 1
+Distance travelled: 0.10840821266174316
+killed so far: 2
+Distance travelled: -0.23799794912338257
+killed so far: 3
+Distance travelled: 0.11485695838928223
+killed so far: 4
+Distance travelled: 0.00922393798828125
+killed so far: 5
+Distance travelled: -0.8543913960456848
+killed so far: 6
+Distance travelled: -0.7177058458328247
+killed so far: 7
+Distance travelled: 0.1565694808959961
+killed so far: 8
+Distance travelled: -0.9044854789972305
+killed so far: 9
+Distance travelled: 0.08841609954833984
+killed so far: 10
+Distance travelled: -0.29442769289016724
+killed so far: 11
+Distance travelled: -0.6609863042831421
+killed so far: 12
+Distance travelled: -0.38798487186431885
+killed so far: 13
+Distance travelled: -0.06824338436126709
+killed so far: 14
+Distance travelled: 0.40042924880981445
+killed so far: 15
+Distance travelled: 0.5101135969161987
+killed so far: 16
+Distance travelled: 0.5537502765655518
+killed so far: 17
+Distance travelled: 1.6560461521148682
+killed so far: 18
+Distance travelled: 1.9863641262054443
+killed so far: 19
+Distance travelled: 81.4273452758789
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -1.0464659184217453
+killed so far: 1
+Distance travelled: -0.9022737443447113
+killed so far: 2
+Distance travelled: -0.8639153093099594
+killed so far: 3
+Distance travelled: -0.7268185019493103
+killed so far: 4
+Distance travelled: -0.9267488420009613
+killed so far: 5
+Distance travelled: 0.17124152183532715
+killed so far: 6
+Distance travelled: -0.61073037981987
+killed so far: 7
+Distance travelled: 1.8653109073638916
+killed so far: 8
+Distance travelled: 0.4372793436050415
+killed so far: 9
+Distance travelled: 0.198356032371521
+killed so far: 10
+Distance travelled: 2.983795642852783
+killed so far: 11
+Distance travelled: 0.3653978109359741
+killed so far: 12
+Distance travelled: 53.775001525878906
+killed so far: 13
+Distance travelled: 54.87001037597656
+killed so far: 14
+Distance travelled: 80.51122283935547
+killed so far: 15
+Distance travelled: 164.0780487060547
+killed so far: 16
+Distance travelled: 163.87277221679688
+killed so far: 17
+Distance travelled: 32.30203628540039
+killed so far: 18
+Distance travelled: 78.63444519042969
+killed so far: 19
+Distance travelled: 110.67333221435547
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.14891594648361206
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -0.9022737443447113
+killed so far: 4
+Distance travelled: -0.9267488420009613
+killed so far: 5
+Distance travelled: 0.17708086967468262
+killed so far: 6
+Distance travelled: 0.24609375
+killed so far: 7
+Distance travelled: -0.15320754051208496
+killed so far: 8
+Distance travelled: 1.8653109073638916
+killed so far: 9
+Distance travelled: 0.6235394477844238
+killed so far: 10
+Distance travelled: 0.3559572696685791
+killed so far: 11
+Distance travelled: 45.47720718383789
+killed so far: 12
+Distance travelled: 45.06768798828125
+killed so far: 13
+Distance travelled: 82.41313171386719
+killed so far: 14
+Distance travelled: 54.930328369140625
+killed so far: 15
+Distance travelled: 163.7733917236328
+killed so far: 16
+Distance travelled: 171.12681579589844
+killed so far: 17
+Distance travelled: 123.37584686279297
+killed so far: 18
+Distance travelled: 109.46730041503906
+killed so far: 19
+Distance travelled: 164.40032958984375
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.1319902539253235
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -0.9267488420009613
+killed so far: 4
+Distance travelled: -0.13768059015274048
+killed so far: 5
+Distance travelled: 0.07010722160339355
+killed so far: 6
+Distance travelled: 0.6588273048400879
+killed so far: 7
+Distance travelled: 0.4151214361190796
+killed so far: 8
+Distance travelled: 1.0362966060638428
+killed so far: 9
+Distance travelled: 0.9109605550765991
+killed so far: 10
+Distance travelled: 1.7813618183135986
+killed so far: 11
+Distance travelled: 3.4510879516601562
+killed so far: 12
+Distance travelled: 54.70398712158203
+killed so far: 13
+Distance travelled: 55.98042297363281
+killed so far: 14
+Distance travelled: 88.38741302490234
+killed so far: 15
+Distance travelled: 170.86654663085938
+killed so far: 16
+Distance travelled: 170.65634155273438
+killed so far: 17
+Distance travelled: 171.14190673828125
+killed so far: 18
+Distance travelled: 171.41961669921875
+killed so far: 19
+Distance travelled: 109.41581726074219
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.4455612897872925
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -0.9267488420009613
+killed so far: 4
+Distance travelled: -0.41214263439178467
+killed so far: 5
+Distance travelled: -0.13768059015274048
+killed so far: 6
+Distance travelled: 0.24839520454406738
+killed so far: 7
+Distance travelled: 0.02887248992919922
+killed so far: 8
+Distance travelled: 1.2183215618133545
+killed so far: 9
+Distance travelled: 0.9002676010131836
+killed so far: 10
+Distance travelled: 0.7315785884857178
+killed so far: 11
+Distance travelled: 3.06795597076416
+killed so far: 12
+Distance travelled: 34.71066665649414
+killed so far: 13
+Distance travelled: 88.28616333007812
+killed so far: 14
+Distance travelled: 163.20443725585938
+killed so far: 15
+Distance travelled: 108.91873168945312
+killed so far: 16
+Distance travelled: 164.82937622070312
+killed so far: 17
+Distance travelled: 109.11701965332031
+killed so far: 18
+Distance travelled: 202.7537384033203
+killed so far: 19
+Distance travelled: 109.98509216308594
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -1.0464659184217453
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -0.9267488420009613
+killed so far: 3
+Distance travelled: -0.14181238412857056
+killed so far: 4
+Distance travelled: 0.27345573902130127
+killed so far: 5
+Distance travelled: 2.0813066959381104
+killed so far: 6
+Distance travelled: 0.2973144054412842
+killed so far: 7
+Distance travelled: 0.5423256158828735
+killed so far: 8
+Distance travelled: 1.4086222648620605
+killed so far: 9
+Distance travelled: 0.636688232421875
+killed so far: 10
+Distance travelled: 0.9345650672912598
+killed so far: 11
+Distance travelled: 1.0342357158660889
+killed so far: 12
+Distance travelled: 7.645732879638672
+killed so far: 13
+Distance travelled: 2.2310259342193604
+killed so far: 14
+Distance travelled: 7.911812782287598
+killed so far: 15
+Distance travelled: 91.54940795898438
+killed so far: 16
+Distance travelled: 9.975458145141602
+killed so far: 17
+Distance travelled: 33.7777214050293
+killed so far: 18
+Distance travelled: 95.67353820800781
+killed so far: 19
+Distance travelled: 170.96681213378906
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.12963175773620605
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -0.9267488420009613
+killed so far: 4
+Distance travelled: -0.11587756872177124
+killed so far: 5
+Distance travelled: 0.5590634346008301
+killed so far: 6
+Distance travelled: 0.5411379337310791
+killed so far: 7
+Distance travelled: 0.8179398775100708
+killed so far: 8
+Distance travelled: 0.5423250198364258
+killed so far: 9
+Distance travelled: 1.4085543155670166
+killed so far: 10
+Distance travelled: 0.6366777420043945
+killed so far: 11
+Distance travelled: 0.245621919631958
+killed so far: 12
+Distance travelled: 1.2166595458984375
+killed so far: 13
+Distance travelled: 1.0983490943908691
+killed so far: 14
+Distance travelled: 163.62278747558594
+killed so far: 15
+Distance travelled: 170.87017822265625
+killed so far: 16
+Distance travelled: 170.87017822265625
+killed so far: 17
+Distance travelled: 171.75289916992188
+killed so far: 18
+Distance travelled: 171.24356079101562
+killed so far: 19
+Distance travelled: 160.36709594726562
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.5662745535373688
+killed so far: 1
+Distance travelled: -0.9251230582594872
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -0.095791757106781
+killed so far: 5
+Distance travelled: -0.5592106580734253
+killed so far: 6
+Distance travelled: -0.9267488420009613
+killed so far: 7
+Distance travelled: -0.5498735308647156
+killed so far: 8
+Distance travelled: 0.25550365447998047
+killed so far: 9
+Distance travelled: 0.7658294439315796
+killed so far: 10
+Distance travelled: 0.6270161867141724
+killed so far: 11
+Distance travelled: 1.0215210914611816
+killed so far: 12
+Distance travelled: 1.4083654880523682
+killed so far: 13
+Distance travelled: 1.0342330932617188
+killed so far: 14
+Distance travelled: 2.2450051307678223
+killed so far: 15
+Distance travelled: 163.40786743164062
+killed so far: 16
+Distance travelled: 163.40786743164062
+killed so far: 17
+Distance travelled: 170.9784393310547
+killed so far: 18
+Distance travelled: 171.5934600830078
+killed so far: 19
+Distance travelled: 163.95169067382812
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.06683945655822754
+killed so far: 1
+Distance travelled: -0.06683945655822754
+killed so far: 2
+Distance travelled: -0.9251230582594872
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.0464659184217453
+killed so far: 5
+Distance travelled: -1.0464659184217453
+killed so far: 6
+Distance travelled: -0.4780997633934021
+killed so far: 7
+Distance travelled: -0.9267488420009613
+killed so far: 8
+Distance travelled: -0.5498735308647156
+killed so far: 9
+Distance travelled: 2.6258351802825928
+killed so far: 10
+Distance travelled: 0.7618852853775024
+killed so far: 11
+Distance travelled: 2.097452402114868
+killed so far: 12
+Distance travelled: 4.08038330078125
+killed so far: 13
+Distance travelled: 119.43193817138672
+killed so far: 14
+Distance travelled: 117.4888916015625
+killed so far: 15
+Distance travelled: 159.57635498046875
+killed so far: 16
+Distance travelled: 109.94822692871094
+killed so far: 17
+Distance travelled: 171.97047424316406
+killed so far: 18
+Distance travelled: 170.7432098388672
+killed so far: 19
+Distance travelled: 164.0225067138672
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -1.0464659184217453
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.0464659184217453
+killed so far: 5
+Distance travelled: -1.0524735897779465
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -0.07072997093200684
+killed so far: 8
+Distance travelled: 0.6258537769317627
+killed so far: 9
+Distance travelled: 0.7443884611129761
+killed so far: 10
+Distance travelled: 0.19749152660369873
+killed so far: 11
+Distance travelled: 1.2413151264190674
+killed so far: 12
+Distance travelled: 2.625835418701172
+killed so far: 13
+Distance travelled: 2.625835418701172
+killed so far: 14
+Distance travelled: 1.0342378616333008
+killed so far: 15
+Distance travelled: 2.0974438190460205
+killed so far: 16
+Distance travelled: 171.39419555664062
+killed so far: 17
+Distance travelled: 163.46534729003906
+killed so far: 18
+Distance travelled: 109.98695373535156
+killed so far: 19
+Distance travelled: 164.0176239013672
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: 0.2532702684402466
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.3109637796878815
+killed so far: 5
+Distance travelled: -1.0464659184217453
+killed so far: 6
+Distance travelled: -1.0464659184217453
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.0524735897779465
+killed so far: 9
+Distance travelled: 0.32632553577423096
+killed so far: 10
+Distance travelled: 1.2413146495819092
+killed so far: 11
+Distance travelled: 1.161200761795044
+killed so far: 12
+Distance travelled: 2.09744930267334
+killed so far: 13
+Distance travelled: 1.746974229812622
+killed so far: 14
+Distance travelled: 110.6466293334961
+killed so far: 15
+Distance travelled: 163.58799743652344
+killed so far: 16
+Distance travelled: 163.58799743652344
+killed so far: 17
+Distance travelled: 163.58799743652344
+killed so far: 18
+Distance travelled: 109.99787902832031
+killed so far: 19
+Distance travelled: 128.97532653808594
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: 0.2532702684402466
+killed so far: 1
+Distance travelled: -1.3109637796878815
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.0524735897779465
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: 0.059369802474975586
+killed so far: 8
+Distance travelled: -1.0524735897779465
+killed so far: 9
+Distance travelled: 0.0341334342956543
+killed so far: 10
+Distance travelled: 0.10085999965667725
+killed so far: 11
+Distance travelled: 0.5823414325714111
+killed so far: 12
+Distance travelled: 1.38901948928833
+killed so far: 13
+Distance travelled: 1.161200761795044
+killed so far: 14
+Distance travelled: 1.307896375656128
+killed so far: 15
+Distance travelled: 110.93399810791016
+killed so far: 16
+Distance travelled: 163.19764709472656
+killed so far: 17
+Distance travelled: 110.5902328491211
+killed so far: 18
+Distance travelled: 159.6775360107422
+killed so far: 19
+Distance travelled: 170.95606994628906
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -1.3109637796878815
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.0524735897779465
+killed so far: 7
+Distance travelled: -1.0524735897779465
+killed so far: 8
+Distance travelled: 0.1095113754272461
+killed so far: 9
+Distance travelled: 0.0341334342956543
+killed so far: 10
+Distance travelled: 0.10085999965667725
+killed so far: 11
+Distance travelled: 1.21144700050354
+killed so far: 12
+Distance travelled: 1.3110220432281494
+killed so far: 13
+Distance travelled: 1.161200761795044
+killed so far: 14
+Distance travelled: 0.64621901512146
+killed so far: 15
+Distance travelled: 1.438934564590454
+killed so far: 16
+Distance travelled: 1.4030756950378418
+killed so far: 17
+Distance travelled: 111.33305358886719
+killed so far: 18
+Distance travelled: 163.20599365234375
+killed so far: 19
+Distance travelled: 163.19313049316406
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.08316683769226074
+killed so far: 1
+Distance travelled: -0.3726835250854492
+killed so far: 2
+Distance travelled: -1.3109637796878815
+killed so far: 3
+Distance travelled: -1.0464659184217453
+killed so far: 4
+Distance travelled: -1.3109637796878815
+killed so far: 5
+Distance travelled: -1.0464659184217453
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: 0.1095116138458252
+killed so far: 11
+Distance travelled: 0.03413200378417969
+killed so far: 12
+Distance travelled: 0.70383620262146
+killed so far: 13
+Distance travelled: 1.1612005233764648
+killed so far: 14
+Distance travelled: 0.6463258266448975
+killed so far: 15
+Distance travelled: 41.364349365234375
+killed so far: 16
+Distance travelled: 163.32008361816406
+killed so far: 17
+Distance travelled: 171.11862182617188
+killed so far: 18
+Distance travelled: 160.66024780273438
+killed so far: 19
+Distance travelled: 159.52333068847656
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.08316683769226074
+killed so far: 1
+Distance travelled: -0.08316683769226074
+killed so far: 2
+Distance travelled: -0.40674126148223877
+killed so far: 3
+Distance travelled: -0.8882703706622124
+killed so far: 4
+Distance travelled: -1.3109637796878815
+killed so far: 5
+Distance travelled: -1.0464659184217453
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.0524735897779465
+killed so far: 12
+Distance travelled: -0.10640162229537964
+killed so far: 13
+Distance travelled: 0.5914947986602783
+killed so far: 14
+Distance travelled: 0.6447679996490479
+killed so far: 15
+Distance travelled: 0.6447679996490479
+killed so far: 16
+Distance travelled: 0.6882853507995605
+killed so far: 17
+Distance travelled: 2.4386649131774902
+killed so far: 18
+Distance travelled: 163.94549560546875
+killed so far: 19
+Distance travelled: 159.0490264892578
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.08316683769226074
+killed so far: 1
+Distance travelled: -0.08316683769226074
+killed so far: 2
+Distance travelled: -0.40674126148223877
+killed so far: 3
+Distance travelled: -0.7955121695995331
+killed so far: 4
+Distance travelled: -1.0464659184217453
+killed so far: 5
+Distance travelled: -1.0464659184217453
+killed so far: 6
+Distance travelled: -1.0464659184217453
+killed so far: 7
+Distance travelled: -1.0464659184217453
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -0.11544346809387207
+killed so far: 12
+Distance travelled: 0.5914950370788574
+killed so far: 13
+Distance travelled: 0.5867843627929688
+killed so far: 14
+Distance travelled: 0.22881221771240234
+killed so far: 15
+Distance travelled: 1.1612002849578857
+killed so far: 16
+Distance travelled: 0.6465743780136108
+killed so far: 17
+Distance travelled: 0.9939067363739014
+killed so far: 18
+Distance travelled: 95.4975814819336
+killed so far: 19
+Distance travelled: 103.41021728515625
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.869186595082283
+killed so far: 1
+Distance travelled: -1.0464659184217453
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -0.11020165681838989
+killed so far: 7
+Distance travelled: -0.11020165681838989
+killed so far: 8
+Distance travelled: 0.5914949178695679
+killed so far: 9
+Distance travelled: 0.5824528932571411
+killed so far: 10
+Distance travelled: 0.921271800994873
+killed so far: 11
+Distance travelled: 0.7791473865509033
+killed so far: 12
+Distance travelled: 0.6295111179351807
+killed so far: 13
+Distance travelled: 1.3542351722717285
+killed so far: 14
+Distance travelled: 0.6457037925720215
+killed so far: 15
+Distance travelled: 0.6457037925720215
+killed so far: 16
+Distance travelled: 0.978874921798706
+killed so far: 17
+Distance travelled: 98.36068725585938
+killed so far: 18
+Distance travelled: 172.08648681640625
+killed so far: 19
+Distance travelled: 164.38812255859375
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.869186595082283
+killed so far: 1
+Distance travelled: -1.311837524175644
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.085222214460373
+killed so far: 6
+Distance travelled: -0.17393839359283447
+killed so far: 7
+Distance travelled: -0.17393839359283447
+killed so far: 8
+Distance travelled: -0.11859863996505737
+killed so far: 9
+Distance travelled: -0.11859863996505737
+killed so far: 10
+Distance travelled: 0.1846930980682373
+killed so far: 11
+Distance travelled: 0.5824532508850098
+killed so far: 12
+Distance travelled: 0.5914946794509888
+killed so far: 13
+Distance travelled: 0.921271800994873
+killed so far: 14
+Distance travelled: 0.7790184020996094
+killed so far: 15
+Distance travelled: 0.6475306749343872
+killed so far: 16
+Distance travelled: 0.6475306749343872
+killed so far: 17
+Distance travelled: 1.555934190750122
+killed so far: 18
+Distance travelled: 95.48258209228516
+killed so far: 19
+Distance travelled: 163.5552215576172
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.869186595082283
+killed so far: 1
+Distance travelled: -1.311837524175644
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.0055326521396637
+killed so far: 6
+Distance travelled: -0.21955406665802002
+killed so far: 7
+Distance travelled: 0.0341334342956543
+killed so far: 8
+Distance travelled: -0.4893784523010254
+killed so far: 9
+Distance travelled: -0.4893784523010254
+killed so far: 10
+Distance travelled: -0.17393839359283447
+killed so far: 11
+Distance travelled: 0.1846930980682373
+killed so far: 12
+Distance travelled: 0.2598007917404175
+killed so far: 13
+Distance travelled: 0.778956413269043
+killed so far: 14
+Distance travelled: 0.6474543809890747
+killed so far: 15
+Distance travelled: 0.6474543809890747
+killed so far: 16
+Distance travelled: 1.070495843887329
+killed so far: 17
+Distance travelled: 1.0342381000518799
+killed so far: 18
+Distance travelled: 96.05050659179688
+killed so far: 19
+Distance travelled: 109.40669250488281
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.510846346616745
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -1.0464659184217453
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.085222214460373
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.2603115141391754
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -0.3766571283340454
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.0010734051465988
+killed so far: 13
+Distance travelled: -1.0010734051465988
+killed so far: 14
+Distance travelled: -0.42079097032546997
+killed so far: 15
+Distance travelled: 0.1846930980682373
+killed so far: 16
+Distance travelled: 0.28718650341033936
+killed so far: 17
+Distance travelled: 95.96289825439453
+killed so far: 18
+Distance travelled: 119.787109375
+killed so far: 19
+Distance travelled: 170.69468688964844
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.510846346616745
+killed so far: 1
+Distance travelled: -0.510846346616745
+killed so far: 2
+Distance travelled: -0.869186595082283
+killed so far: 3
+Distance travelled: -0.8882703706622124
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.2603115141391754
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.0204648822546005
+killed so far: 13
+Distance travelled: -0.17393839359283447
+killed so far: 14
+Distance travelled: -0.17479705810546875
+killed so far: 15
+Distance travelled: -0.42079097032546997
+killed so far: 16
+Distance travelled: 0.28612732887268066
+killed so far: 17
+Distance travelled: 0.28612732887268066
+killed so far: 18
+Distance travelled: 0.6516458988189697
+killed so far: 19
+Distance travelled: 164.18154907226562
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.510846346616745
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -0.9917114526033401
+killed so far: 8
+Distance travelled: -1.235000103712082
+killed so far: 9
+Distance travelled: -0.45100659132003784
+killed so far: 10
+Distance travelled: 0.2687857151031494
+killed so far: 11
+Distance travelled: 0.2687857151031494
+killed so far: 12
+Distance travelled: 0.6516458988189697
+killed so far: 13
+Distance travelled: 0.6516458988189697
+killed so far: 14
+Distance travelled: 0.6516458988189697
+killed so far: 15
+Distance travelled: 0.4521530866622925
+killed so far: 16
+Distance travelled: 118.08992767333984
+killed so far: 17
+Distance travelled: 109.81990051269531
+killed so far: 18
+Distance travelled: 141.44273376464844
+killed so far: 19
+Distance travelled: 141.44273376464844
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -0.9917114526033401
+killed so far: 10
+Distance travelled: -0.45100659132003784
+killed so far: 11
+Distance travelled: -0.4897106885910034
+killed so far: 12
+Distance travelled: -0.1747981309890747
+killed so far: 13
+Distance travelled: 0.6516458988189697
+killed so far: 14
+Distance travelled: 0.3935297727584839
+killed so far: 15
+Distance travelled: 0.6516458988189697
+killed so far: 16
+Distance travelled: 0.6516458988189697
+killed so far: 17
+Distance travelled: 0.3935297727584839
+killed so far: 18
+Distance travelled: 119.9233169555664
+killed so far: 19
+Distance travelled: 159.5856170654297
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -0.5181702375411987
+killed so far: 14
+Distance travelled: -0.10717296600341797
+killed so far: 15
+Distance travelled: 0.6516458988189697
+killed so far: 16
+Distance travelled: 0.6516458988189697
+killed so far: 17
+Distance travelled: 0.6516458988189697
+killed so far: 18
+Distance travelled: 0.6516458988189697
+killed so far: 19
+Distance travelled: 157.0348358154297
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -0.17393839359283447
+killed so far: 14
+Distance travelled: 0.5830197334289551
+killed so far: 15
+Distance travelled: 0.6516458988189697
+killed so far: 16
+Distance travelled: 0.6516458988189697
+killed so far: 17
+Distance travelled: 0.6516458988189697
+killed so far: 18
+Distance travelled: 0.6516458988189697
+killed so far: 19
+Distance travelled: 164.01490783691406
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.869186595082283
+killed so far: 1
+Distance travelled: -0.869186595082283
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -0.8882703706622124
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: 0.5830197334289551
+killed so far: 16
+Distance travelled: 0.5830197334289551
+killed so far: 17
+Distance travelled: 0.5830197334289551
+killed so far: 18
+Distance travelled: 0.6516458988189697
+killed so far: 19
+Distance travelled: 163.6993865966797
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.40674126148223877
+killed so far: 1
+Distance travelled: -0.869186595082283
+killed so far: 2
+Distance travelled: -0.869186595082283
+killed so far: 3
+Distance travelled: -0.8882703706622124
+killed so far: 4
+Distance travelled: -0.8882703706622124
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: -1.311837524175644
+killed so far: 16
+Distance travelled: -1.311837524175644
+killed so far: 17
+Distance travelled: -1.311837524175644
+killed so far: 18
+Distance travelled: 0.5830197334289551
+killed so far: 19
+Distance travelled: 0.5830197334289551
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -0.8882703706622124
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: -1.311837524175644
+killed so far: 16
+Distance travelled: 0.5830197334289551
+killed so far: 17
+Distance travelled: 0.5830197334289551
+killed so far: 18
+Distance travelled: 0.6516458988189697
+killed so far: 19
+Distance travelled: 0.6516458988189697
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: -1.311837524175644
+killed so far: 16
+Distance travelled: -1.311837524175644
+killed so far: 17
+Distance travelled: -1.311837524175644
+killed so far: 18
+Distance travelled: 0.5830197334289551
+killed so far: 19
+Distance travelled: 0.5830197334289551
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -0.8882703706622124
+killed so far: 1
+Distance travelled: -0.8882703706622124
+killed so far: 2
+Distance travelled: -0.8882703706622124
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: -1.311837524175644
+killed so far: 16
+Distance travelled: -1.311837524175644
+killed so far: 17
+Distance travelled: -1.311837524175644
+killed so far: 18
+Distance travelled: -1.311837524175644
+killed so far: 19
+Distance travelled: 0.5830197334289551
+killed so far: 20
+START NEW GENERATION!!!!!!!!! 
+Distance travelled: -1.311837524175644
+killed so far: 1
+Distance travelled: -1.311837524175644
+killed so far: 2
+Distance travelled: -1.311837524175644
+killed so far: 3
+Distance travelled: -1.311837524175644
+killed so far: 4
+Distance travelled: -1.311837524175644
+killed so far: 5
+Distance travelled: -1.311837524175644
+killed so far: 6
+Distance travelled: -1.311837524175644
+killed so far: 7
+Distance travelled: -1.311837524175644
+killed so far: 8
+Distance travelled: -1.311837524175644
+killed so far: 9
+Distance travelled: -1.311837524175644
+killed so far: 10
+Distance travelled: -1.311837524175644
+killed so far: 11
+Distance travelled: -1.311837524175644
+killed so far: 12
+Distance travelled: -1.311837524175644
+killed so far: 13
+Distance travelled: -1.311837524175644
+killed so far: 14
+Distance travelled: -1.311837524175644
+killed so far: 15
+Distance travelled: -1.311837524175644
+killed so far: 16
+Distance travelled: -1.311837524175644
+killed so far: 17
+Distance travelled: -1.311837524175644
+killed so far: 18
+Distance travelled: -1.311837524175644
+killed so far: 19
+Distance travelled: -1.311837524175644
+killed so far: 20
