@@ -748,9 +748,81 @@ class do_stuff():
 		child_car = car(self.world,random = False,car_def = child)
 		return child_car
 
-	#def mate1ptCrossover(self,parents):
-		#YOUR CODE HERE
+
+
+
+
+	def mate1ptCrossover(self,parents):
+		# YOUR CODE HERE
+		#mating the 2 cars works like this:
+		#we take the info of the 2 parents as parent1 and parent2
+		#we now define 1 swapPoints
+		#if we have 10 attributes and the swappoints are 3 and 7
+		#the child will have the following attribute array:
+		#child = parent1[1..swapPoint1] + parent2[swapPoint1+1 ...10] 
+		#atrribute list for our car: (also look at make_random_car() method in car class)
+		#below is for 2 wheels
+		#1.no.of wheels (1)
+		#2.wheel_radius (2)
+		#3.wheel_vertex (2)
+		#4.wheel_density (2)
+		#5.vertex_list   (8)
+		#6.chassis_density (1)
+		#total - 16 attributes [0..15]
+		total_attributes = 15
+		attribute_index = 0
+		parents = [self.population_data[parents[0]].car_def,self.population_data[parents[1]].car_def]
+		swap_point1 = random.randint(0,total_attributes)
+		swap_point2 = swap_point1
+
+		child = car_info()
+		curr_parent = 0
+		child.set_wheel_count = parents[curr_parent].get_wheel_count()
+		attribute_index += 1
+		curr_parent = self.which_parent(attribute_index,curr_parent,swap_point1,swap_point2)
+		#print "cross over points,",swap_point1,"<->",swap_point2
+		#print "wheel radius corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_radius[i] = parents[curr_parent].wheel_radius[i]
+			attribute_index += 1
+			curr_parent = self.which_parent(attribute_index,curr_parent,swap_point1,swap_point2)
+			#print "new curr parent is ",curr_parent
+		#print "wheel vertex corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_vertex[i] = parents[curr_parent].wheel_vertex[i]
+			attribute_index += 1
+			curr_parent = self.which_parent(attribute_index,curr_parent,swap_point1,swap_point2)
+		#print "wheel density corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_density[i] = parents[curr_parent].wheel_density[i]
+			attribute_index += 1
+			curr_parent = self.which_parent(attribute_index,curr_parent,swap_point1,swap_point2)
+		#print "vertex list corssings"
+		for i in range(len(child.get_vertex_list())):
+			#print "now takign attribute from parent",curr_parent
+			child.vertex_list[i] = parents[curr_parent].vertex_list[i]
+			attribute_index += 1
+			curr_parent = self.which_parent(attribute_index,curr_parent,swap_point1,swap_point2)
 		
+		child.set_chassis_density = parents[curr_parent].get_chassis_density()
+		#print "attributes completed:",attribute_index
+		child_car = car(self.world,random = False,car_def = child)
+		return child_car
+		
+
+
+
+
+
+
+
+
+
+
+
 	#def mateUniformCrossover(self,parents):
 		#YOUR CODE HERE
 
@@ -787,8 +859,8 @@ class do_stuff():
 		while len(new_population) < self.population_size:
 			parents = self.get_parent_index(mates_list)
 			mates_list.append(parents)
-			child = self.mate2ptCrossover(parents) #we're passing only the indices of the parents
-			#child = self.mate1ptCrossover(parents) # COMMENT OR UNCOMMENT HERE TO RUN THE RIGHT CROSSOVER ROUTINE
+			# child = self.mate2ptCrossover(parents) #we're passing only the indices of the parents
+			child = self.mate1ptCrossover(parents) # COMMENT OR UNCOMMENT HERE TO RUN THE RIGHT CROSSOVER ROUTINE
 			#child = self.mateUniformCrossover(parents)
 			#child = self.mutate(child.car_def) # UNCOMMENT THIS WHEN YOU'VE IMPLEMENTED MUTATION
 			new_population.append([child.chassis,child.wheels])
@@ -797,7 +869,7 @@ class do_stuff():
 		#change generation.
 		print(len(new_population))
 		print("START NEW GENERATION!!!!!!!!!")
-		title = b"START NEW GENERATION!!!!!!!!! \n" 
+		title = b"\nSTART NEW GENERATION!!!!!!!!! \n " #+ str(cycle).encode('ascii') + b"\n"
 		os.write(experiment_file, title)
 		os.sync()
 
@@ -825,11 +897,19 @@ class do_stuff():
 # experiment_file = open('demo.txt', 'w')
 # print('~~~New Experiment ~~~', file = experiment_file)
 
-experiment_file = os.open('demo.txt', os.O_RDWR)
 
-m = do_stuff()
 
-os.close(experiment_file)
+# *******
+# experiment_file = os.open('demo4.txt', os.O_RDWR)
+# exp_note = b"\n Experiement Note: Demo mate1ptCrossover method with n=10 \n" 
+# os.write(experiment_file, exp_note)
+# os.sync()
+
+# m = do_stuff()
+
+# os.close(experiment_file)
+# *******
+
 
 #few problems:
 
@@ -843,3 +923,32 @@ os.close(experiment_file)
 #new problem - trying to get the camera to focus on the current leader - DONE
 #have another method where we sort the currently alive cars by their distance AND their dead or alive status
 #let the sort criteria be - dist+(if dead:-999999 else 0) and then sort and get the highest [x,y] and add it to camera as offset
+
+
+
+# helper function of find_max_and_min_scores(filename)
+# checks if the current string is a float number
+def is_float(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
+# finds the maximum and minimum number in a given txt file
+def find_max_and_min_scores(filename):
+	max, min = 0.0, 0.0
+	for line in open(filename).readlines(  ):     
+		for word in line.split(  ):   
+			if is_float(word):
+				ret = float(word)
+				if ret > max:
+					max = ret
+				elif ret < min:
+					min = ret
+					
+	print("Filename: ", filename)
+	print("Max distance travelled: ", max)		
+	print("Min distance travelled: ", min)	
+
+find_max_and_min_scores('demo4.txt')
