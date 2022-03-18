@@ -823,8 +823,61 @@ class do_stuff():
 
 
 
-	#def mateUniformCrossover(self,parents):
-		#YOUR CODE HERE
+	def mateUniformCrossover(self,parents):
+		# YOUR CODE HERE
+		#mating the 2 cars works like this:
+		#we take the info of a parent that is randonmly chosen and
+		#the child will inherit genetic information from this parent
+		#the child will have the following attribute array:
+		#child = parent1 or child = parent2
+		#atrribute list for our car: (also look at make_random_car() method in car class)
+		#below is for 2 wheels
+		#1.no.of wheels (1)
+		#2.wheel_radius (2)
+		#3.wheel_vertex (2)
+		#4.wheel_density (2)
+		#5.vertex_list   (8)
+		#6.chassis_density (1)
+		attribute_index = 0
+		parents = [self.population_data[parents[0]].car_def,self.population_data[parents[1]].car_def]
+
+		child = car_info()
+		curr_parent = random.randint(0,1)
+		child.set_wheel_count = parents[curr_parent].get_wheel_count()
+		attribute_index += 1
+		#print "wheel radius corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_radius[i] = parents[curr_parent].wheel_radius[i]
+			attribute_index += 1
+			#print "new curr parent is ",curr_parent
+		#print "wheel vertex corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_vertex[i] = parents[curr_parent].wheel_vertex[i]
+			attribute_index += 1
+		#print "wheel density corssings"
+		for i in range(child.get_wheel_count()):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_density[i] = parents[curr_parent].wheel_density[i]
+			attribute_index += 1
+		#print "vertex list corssings"
+		for i in range(len(child.get_vertex_list())):
+			#print "now takign attribute from parent",curr_parent
+			child.vertex_list[i] = parents[curr_parent].vertex_list[i]
+			attribute_index += 1
+		
+		child.set_chassis_density = parents[curr_parent].get_chassis_density()
+		#print "attributes completed:",attribute_index
+		child_car = car(self.world,random = False,car_def = child)
+		return child_car
+
+
+
+
+
+
+
 
 	def which_parent(self,index,last_parent,swp1,swp2):
 		if index == swp1 or index == swp2:
@@ -837,13 +890,62 @@ class do_stuff():
 		else:
 			return last_parent
 
-	#def mutate(self,child):
+	def mutate(self,child):
 		# YOUR CODE HERE
 		# YOU LIKELY WANT TO INCLUDE A MUTATION RATE AND EXPERIMENT WITH THIS RATE
+		attribute_index = 0
+		# print(child.get_wheel_count())
+		# child.set_wheel_count = 3 #= child.get_wheel_count() + 3
+		# print(child.get_wheel_count())
+
+		rate = 1/2
+		attribute_index += 1
+		
+		#print "wheel radius corssings"
+		for i in range(int(child.get_wheel_count() * rate)):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_radius[i] = child.wheel_radius[i]
+			attribute_index += 1
+			#print "new curr parent is ",curr_parent
+		#print "wheel vertex corssings"
+		for i in range(int(child.get_wheel_count() * rate)):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_vertex[i] = child.wheel_vertex[i]
+			attribute_index += 1
+		#print "wheel density corssings"
+		for i in range(int(child.get_wheel_count() * rate)):
+			#print "now takign attribute from parent",curr_parent
+			child.wheel_density[i] = child.wheel_density[i]
+			attribute_index += 1
+		#print "vertex list corssings"
+		for i in range(len(child.get_vertex_list())):
+			#print "now takign attribute from parent",curr_parent
+			child.vertex_list[i] = child.vertex_list[i]
+			attribute_index += 1
+		
+		child.set_chassis_density = child.get_chassis_density()
+		#print "attributes completed:",attribute_index
+		
+		child_car = car(self.world,random = False,car_def = child)
+		
+		return child_car
+
+		# new_car = car_info()
+		# # new_car.car_def = child
+		# print(new_car.get_wheel_count)
+
+		# new_car.set_wheel_count(child.get_wheel_count() + 1)
+		# # new_car.set_chassis_density(child.get_chassis_density())
+		# print(child.car_def.get_wheel_count())
+
+		# # print(child)
+		
+		# pass
+
 
 	def next_generation(self):
 		self.sort_by_dist()
-		n = 3 # TRY EXPERIMENTING WITH n HERE TO SEE WHAT EFFECT IT HAS
+		n = 10 # TRY EXPERIMENTING WITH n HERE TO SEE WHAT EFFECT IT HAS
 		#take the top n contenders of the prev generation and append it to the new list
 		#and mate 2 random parents (population_size-n) times and append their children to the new list
 		#now replace the exisitng poulation with the new population
@@ -859,10 +961,15 @@ class do_stuff():
 		while len(new_population) < self.population_size:
 			parents = self.get_parent_index(mates_list)
 			mates_list.append(parents)
-			# child = self.mate2ptCrossover(parents) #we're passing only the indices of the parents
-			child = self.mate1ptCrossover(parents) # COMMENT OR UNCOMMENT HERE TO RUN THE RIGHT CROSSOVER ROUTINE
-			#child = self.mateUniformCrossover(parents)
-			#child = self.mutate(child.car_def) # UNCOMMENT THIS WHEN YOU'VE IMPLEMENTED MUTATION
+
+			# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			child = self.mate2ptCrossover(parents) #we're passing only the indices of the parents
+			# child = self.mate1ptCrossover(parents) # COMMENT OR UNCOMMENT HERE TO RUN THE RIGHT CROSSOVER ROUTINE
+			# child = self.mateUniformCrossover(parents)
+			
+			child = self.mutate(child.car_def) # UNCOMMENT THIS WHEN YOU'VE IMPLEMENTED MUTATION
+			# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			
 			new_population.append([child.chassis,child.wheels])
 			new_population_data.append(car_data(child.chassis,child.wheels,child.car_def))
 
@@ -900,8 +1007,8 @@ class do_stuff():
 
 
 # *******
-# experiment_file = os.open('demo4.txt', os.O_RDWR)
-# exp_note = b"\n Experiement Note: Demo mate1ptCrossover method with n=10 \n" 
+# experiment_file = os.open('demo8.txt', os.O_RDWR)
+# exp_note = b"\n Experiement Note: Demo mutate method with n=10 \n" 
 # os.write(experiment_file, exp_note)
 # os.sync()
 
@@ -947,8 +1054,8 @@ def find_max_and_min_scores(filename):
 				elif ret < min:
 					min = ret
 					
-	print("Filename: ", filename)
+	print("Output file: ", filename)
 	print("Max distance travelled: ", max)		
 	print("Min distance travelled: ", min)	
 
-find_max_and_min_scores('demo4.txt')
+find_max_and_min_scores('demo8.txt')
