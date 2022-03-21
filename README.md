@@ -58,25 +58,25 @@ Output file:  demo4.txt \
 Max distance travelled:  152.742431640625 \
 Min distance travelled:  -1.2892568707466125
 
-Experiement Note: Demo **mateUniformCrossover** method with **n=3** 
-Output file:  demo5.txt
-Max distance travelled:  158.30218505859375
-Min distance travelled:  -1.1699118763
+Experiement Note: Demo **mateUniformCrossover** method with **n=3** \
+Output file:  demo5.txt \
+Max distance travelled:  158.30218505859375 \
+Min distance travelled:  -1.1699118763 \
 
-Experiement Note: Demo **mateUniformCrossover** method with **n=10** 
-Output file:  demo6.txt
-Max distance travelled:  173.29141235351562 (first demo weirdly resulted 104)
-Min distance travelled:  -1.0086699752137065
+Experiement Note: Demo **mateUniformCrossover** method with **n=10**  \
+Output file:  demo6.txt \
+Max distance travelled:  173.29141235351562 (first demo weirdly resulted 104) \
+Min distance travelled:  -1.0086699752137065 \
 
- Experiement Note: Demo **mutate** method with **n=3** 
-Output file:  demo7.txt
-Max distance travelled:  186.50595092773438
-Min distance travelled:  -1.9084889888763428
+ Experiement Note: Demo **mutate** method with **n=3**  \
+Output file:  demo7.txt \
+Max distance travelled:  186.50595092773438 \
+Min distance travelled:  -1.9084889888763428 \
 
- Experiement Note: Demo **mutate** method with **n=10** 
-Output file:  demo8.txt
-Max distance travelled:  143.51046752929688
-Min distance travelled:  -1.0452319085597992
+ Experiement Note: Demo **mutate** method with **n=10**  \
+Output file:  demo8.txt \
+Max distance travelled:  143.51046752929688 \
+Min distance travelled:  -1.0452319085597992 \
 
 
 ##### Resource
