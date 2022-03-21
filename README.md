@@ -10,21 +10,22 @@
  
 
 ##### POPULATION SIZE EFFECT
-> If algorithm continuously get stuck on poor solution
+> If the algorithm continuously get stuck on poor solution it indicates;
 - We have low genetic diversity because our population of solutions is so low.
-- Overtime they really star to look more and more like each other
+- Overtime they really start to look more and more like each other
 and they are kind of unable to break out that optimal solution.
-- We can mitigate that by increasing our population size 
+- Solution: We can mitigate that by increasing our population size 
 
 
 ##### Uniform crossover
 - In uniform crossover, typically, each bit is chosen from either parent with equal probability. Other mixing ratios are sometimes used, resulting in offspring which inherit more genetic information from one parent than the other. In a uniform crossover, we don’t divide the chromosome into segments, rather we treat each gene separately. In this, we essentially flip a coin for each chromosome to decide whether or not it’ll be included in the off-spring. We can also bias the coin to one parent, to have more genetic material in the child from that parent.
 
+
 ### Experiment questions?
 
-**a. Do any of 1-pt, 2-pt or uniform crossover seem to perform better than the alternatives?**
+> **a. Do any of 1-pt, 2-pt or uniform crossover seem to perform better than the alternatives?**
 - It is observed that 2-pt crossover performed better than other. Generate new solutions from an existing population helped new generations to perform better.
-**b. How much does mutation seem to matter, and how sensitive are things to the mutation rate?**
+> **b. How much does mutation seem to matter, and how sensitive are things to the mutation rate?**
 - I assigned 1/2 to the mutation rate. 
 - Observed better result of maximum distance traveled by the new generations.
 - Increasing the mutation will prevent algorithm to get stuck even tho we don't converge on a great solution very quickly.
@@ -32,7 +33,7 @@ and they are kind of unable to break out that optimal solution.
 - Newly generated solutions are typically mutated before being added to the population.
 - Too high mutation rate increases the probability of searching more areas in search space, however, prevents population to converge to any optimum solution.
 - A more dynamic mutation rate, as Paulo Gaspar proposed, is more preferred.
-**c. Elite selection is included and has a default value of 3. If you alter this value do things tend to improve, get worse etc.?**
+> **c. Elite selection is included and has a default value of 3. If you alter this value do things tend to improve, get worse etc.?**
 - It improves. I increase the elite selection from 3 to 10 and new generations performed better. You may see the outputs below or detailed outputs in demo.txt files.
 
 
